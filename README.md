@@ -7,3 +7,7 @@
 ## react 실행
 
 `npm start`
+
+## Dashboard page
+
+![Alt text](image.png)
